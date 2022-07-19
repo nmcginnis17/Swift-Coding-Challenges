@@ -8,13 +8,13 @@
 
 /* Begin PBXFileReference section */
 		1FB6833C288658D800CFACBB /* Swift Coding Challenges.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift Coding Challenges.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1FB6835728865A4F00CFACBB /* Are the letters unique?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Are the letters unique?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		1FB6835828865B0A00CFACBB /* Is the string a palindrome?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Is the string a palindrome?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		1FB6835928865C3E00CFACBB /* Do two strings contain the same characters?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Do two strings contain the same characters?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		1FB6835D28865FFA00CFACBB /* Does one string contain another?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Does one string contain another?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		1FB6835E2886601300CFACBB /* Count the characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Count the characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		1FCA73822886630500A29AFE /* Remove duplicate letters from a string.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Remove duplicate letters from a string.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		1FCA73832886684B00A29AFE /* Condense whitespace.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Condense whitespace.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1FB6835728865A4F00CFACBB /* 1 - Are the letters unique?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1 - Are the letters unique?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1FB6835828865B0A00CFACBB /* 2 - Is the string a palindrome?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2 - Is the string a palindrome?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1FB6835928865C3E00CFACBB /* 3 - Do two strings contain the same characters?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3 - Do two strings contain the same characters?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1FB6835D28865FFA00CFACBB /* 4 - Does one string contain another?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4 - Does one string contain another?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1FB6835E2886601300CFACBB /* 5 - Count the characters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5 - Count the characters.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1FCA73822886630500A29AFE /* 6 - Remove duplicate letters from a string.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6 - Remove duplicate letters from a string.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1FCA73832886684B00A29AFE /* 7 - Condense whitespace.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "7 - Condense whitespace.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,13 +47,13 @@
 		1FB683532886598E00CFACBB /* Strings */ = {
 			isa = PBXGroup;
 			children = (
-				1FB6835728865A4F00CFACBB /* Are the letters unique?.playground */,
-				1FB6835828865B0A00CFACBB /* Is the string a palindrome?.playground */,
-				1FB6835928865C3E00CFACBB /* Do two strings contain the same characters?.playground */,
-				1FB6835D28865FFA00CFACBB /* Does one string contain another?.playground */,
-				1FB6835E2886601300CFACBB /* Count the characters.playground */,
-				1FCA73822886630500A29AFE /* Remove duplicate letters from a string.playground */,
-				1FCA73832886684B00A29AFE /* Condense whitespace.playground */,
+				1FB6835728865A4F00CFACBB /* 1 - Are the letters unique?.playground */,
+				1FB6835828865B0A00CFACBB /* 2 - Is the string a palindrome?.playground */,
+				1FB6835928865C3E00CFACBB /* 3 - Do two strings contain the same characters?.playground */,
+				1FB6835D28865FFA00CFACBB /* 4 - Does one string contain another?.playground */,
+				1FB6835E2886601300CFACBB /* 5 - Count the characters.playground */,
+				1FCA73822886630500A29AFE /* 6 - Remove duplicate letters from a string.playground */,
+				1FCA73832886684B00A29AFE /* 7 - Condense whitespace.playground */,
 			);
 			path = Strings;
 			sourceTree = "<group>";
