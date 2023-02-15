@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		1F3C8C1428A200650073F7FC /* PracticePlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = PracticePlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1F7A01C7299C922C00E35ECE /* 8 - String is Rotated.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8 - String is Rotated.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1F7A01C8299C96FA00E35ECE /* 9 - Find Pangrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9 - Find Pangrams.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1FB6833C288658D800CFACBB /* Swift Coding Challenges.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift Coding Challenges.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FB6835728865A4F00CFACBB /* 1 - Are the letters unique?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1 - Are the letters unique?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1FB6835828865B0A00CFACBB /* 2 - Is the string a palindrome?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2 - Is the string a palindrome?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -58,6 +59,7 @@
 				1FCA73822886630500A29AFE /* 6 - Remove duplicate letters from a string.playground */,
 				1FCA73832886684B00A29AFE /* 7 - Condense whitespace.playground */,
 				1F7A01C7299C922C00E35ECE /* 8 - String is Rotated.playground */,
+				1F7A01C8299C96FA00E35ECE /* 9 - Find Pangrams.playground */,
 			);
 			path = Strings;
 			sourceTree = "<group>";
